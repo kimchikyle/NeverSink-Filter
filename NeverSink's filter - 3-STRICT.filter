@@ -1002,7 +1002,7 @@ Show # $x->Atlas->T2 $Rare->Tiny %TB-Atlas-Bases %D4
 # BaseType "Sorcerer Boots"
 
 #Show # $Chancing B-T1-Chancing %D4
-#	BaseType "Glorious Plate" "Close Helmet" "Occultist's Vestment"
+#	BaseType "Glorious Plate" "Close Helmet" "Occultist's Vestment" "Sadist Garb"
 #	Rarity Normal
 #	SetFontSize 38
 #	SetTextColor 255 255 255 255         # TEXTCOLOR:	 Normal Items: Strong Highlight
